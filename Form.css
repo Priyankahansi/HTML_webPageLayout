@@ -1,6 +1,6 @@
 body {
     width: 200%;
-    Background-color: skyblue;
+    Background-color: lightblue;
     max-width: 600px;
     margin: 0px auto;
     padding: 0px 10px;
@@ -11,7 +11,7 @@ body {
     display: flex;
     flex-flow: column wrap;
     align-content: center;
-    background-color: tomato;
+    background-color:lightslategray;
     font-weight: bold;
     margin-top: 0px;
     margin-bottom: 10px;
@@ -47,7 +47,7 @@ div {
 error-output {
     font-size: 10px;
     font-style: italic;
-    color: red;
+    color: lightblue;
 }
 
 @media only screen and (max-width:281px) {
